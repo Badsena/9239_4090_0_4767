@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 
 import reportWebVitals from "./reportWebVitals";
-import Todo from "./Todo";
+import Todo from "./Todos";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
